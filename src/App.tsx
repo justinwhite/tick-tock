@@ -488,8 +488,7 @@ export default function App() {
                             </g>
                         </g>
 
-                        {/* Center Pin */}
-                        <circle cx={CENTER} cy={CENTER} r="10" fill="#1E3A8A" stroke="#ffffff" strokeWidth="4" />
+
                     </g>
                 </svg>
 
