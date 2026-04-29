@@ -1,0 +1,21 @@
+{
+  "name": "Tick Tock",
+  "short_name": "Tick",
+  "description": "A fun time-telling practice app",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#38bdf8",
+  "theme_color": "#38bdf8",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    },
+    {
+      "src": "icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ]
+}
